@@ -2,14 +2,27 @@
 layout: default
 ---
 
-## Projects
+<h1>Projects</h1>
 
-<h1>Header 1</h1>
-<h2>Header 2</h2>
+<h2>Project 1</h2>
 
-Testing body copy.
+Something about project 1
 
-Hard return
+<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
+
 <hr>
 
-[back](./)
+<h2>Project 2</h2>
+
+Something about project 2
+
+<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
+
+<hr>
+
+<h2>Project 3</h2>
+
+Something about project 3
+
+<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
+
