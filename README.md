@@ -1,6 +1,6 @@
 
 <h1>Decision Mouse</h1>
-<h2>Lynn Asselin II</h2>
+
 Pellentesque at consequat libero, at gravida ex. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque vel placerat urna. Etiam pulvinar eget elit a hendrerit. Nullam condimentum at mauris in pretium. Duis eleifend augue elit, ut hendrerit odio malesuada eu. Curabitur interdum nisl quis massa commodo porta. Proin bibendum libero augue, nec varius neque efficitur a. Praesent eget massa dolor.
 
 Etiam nibh tortor, iaculis tincidunt augue at, tristique sagittis nisi. Phasellus convallis orci id tellus congue rhoncus. Cras dignissim id enim eu vulputate. Maecenas feugiat non mi finibus pharetra. Nam nec ornare purus, consequat condimentum arcu. Pellentesque imperdiet venenatis turpis dignissim fermentum. Duis molestie ipsum faucibus, pulvinar ante ultrices, posuere odio.
