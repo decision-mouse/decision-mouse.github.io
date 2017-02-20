@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+<h1>Resume</h1>
 
-_yay_
+<h2>Resume Entry</h2>
 
-[back](./)
+Some more text here.
+
