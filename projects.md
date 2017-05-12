@@ -4,18 +4,12 @@ layout: default
 
 <h1>Projects</h1>
 
-<h2>Project 1</h2>
+<h2>Parabolic Lift Visualization with InCircle Predicate</h2>
 
-Parabolic Lift Visualization with InCircle Predicate
+A self-designed project to visualize a projective technique for testing if a point is inside a circle. A unique circle is defined by three points in the plane. We then project the three points of the circle and the query point into the 3rd dimension. Using the unique plane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into the 4th dimension.
 
-After taking an introductory course in Computational Geometry and enjoying a group project for a kd-tree visualization, I wanted to try my hand at a personal, self-designed project along the same lines. The original project was in 2D, but I really wanted to try something in 3D. Since I never had the opportunity to take a graphics course, exploring 3D visualization and movement was initially challenging. Due to time constraints and the breadth of the project, I decided to keep it simple and rely on some libraries to focus more on the task at hand. I've found three.js to be a very welcoming library with all of the functionality I needed.
-
-Pictures have always been my preferred learning vehicle. If I can draw and then explain it, then I know I understand it. The Parabolic Lift is a simple idea which marries a few techniques from Linear Algebra.
-
-We can uses these techniques to form an InCircle predicate for testing if a point is inside a
-
-
-<a class="button-blank" href="#">Description</a>  |  <a class="button-blank" href="#">App</a>
+<a class="button-blank" href="https://decision-mouse.github.io/paraboliclift/" target="_blank">Click here to see it</a>
+<a class="button-blank" href="#">Click here for a detailed description</a>
 
 <hr>
 
@@ -29,6 +23,6 @@ Something about project 2
 
 <h2>Project 3</h2>
 
-Something about project 2
+Something about project 3
 
 <a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
