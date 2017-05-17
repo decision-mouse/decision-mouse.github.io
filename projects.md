@@ -2,9 +2,7 @@
 
 <h2>Parabolic Lift Visualization with InCircle Predicate</h2>
 
-$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!
-
-A self-designed project to visualize a projective technique for testing if a point is inside a circle. A unique circle is defined by three points in the plane. We then project the three points of the circle and the query point into $$\mathbb{R}^3$$. Using the unique plane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into $$\mathbb{R}^4$$.
+A self-designed project to visualize a projective technique for testing if a point is inside a circle. A unique circle is defined by three points in $$\mathbb{R}^2$$. We then project the three points of the circle and the query point into $$\mathbb{R}^3$$. Using the unique plane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into $$\mathbb{R}^4$$.
 
 <a class="button-blank" href="https://decision-mouse.github.io/paraboliclift/" target="_blank">Click here to see it</a> |
 <a class="button-blank" href="#">Click here for a detailed description</a>
@@ -23,4 +21,4 @@ A summer project to help me explore the possibility of going into the PhD progra
 
 Something about project 3
 
-<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
+<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="Click here for a detailed description">BUTTON</a>
