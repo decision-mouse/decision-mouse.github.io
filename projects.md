@@ -1,6 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
 <h1>Projects</h1>
 
 <h2>Parabolic Lift Visualization with InCircle Predicate</h2>
