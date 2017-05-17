@@ -1,16 +1,14 @@
-<script type=”text/javascript”
-src=”https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js/MathJax.js?config=TeX-AMS-MML_HTMLorMML“></script>
-
 ---
 layout: default
 ---
-{% raw %}
-  $$a^2 + b^2 = c^2$$
-{% endraw %}
 
 <h1>Projects</h1>
 
 <h2>Parabolic Lift Visualization with InCircle Predicate</h2>
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+{% endraw %}
 
 A self-designed project to visualize a projective technique for testing if a point is inside a circle. A unique circle is defined by three points in the plane. We then project the three points of the circle and the query point into the 3rd dimension. Using the unique plane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into the 4th dimension.
 
