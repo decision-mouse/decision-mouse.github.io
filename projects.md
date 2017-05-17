@@ -6,7 +6,7 @@ layout: default
 
 <h2>Parabolic Lift Visualization with InCircle Predicate</h2>
 
-\\[ \frac{1}{n^{2}} \\]
+\[ \frac{1}{n^{2}} \]
 $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
 
 
