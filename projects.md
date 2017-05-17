@@ -17,8 +17,8 @@ A summer project to help me explore the possibility of going into the PhD progra
 
 <hr>
 
-<h2>KD-Tree Visualization</h2>
+<h2>KD-Tree with Range Search Visualization</h2>
 
-Something about project 3
+This visualization is the result of a group project for an Intro to Computational Geometry course during Fall 2015.
 
-<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="Click here for a detailed description">Click here for a detailed description</a>
+<a class="button-blank" href="http://ifthermal.com/projects/RangeApp/">Click here to see it</a>  |  <a class="button-blank" href="#">Click here for a detailed description</a>
