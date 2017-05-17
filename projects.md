@@ -21,4 +21,4 @@ A summer project to help me explore the possibility of going into the PhD progra
 
 Something about project 3
 
-<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="Click here for a detailed description">BUTTON</a>
+<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="Click here for a detailed description">Click here for a detailed description</a>
