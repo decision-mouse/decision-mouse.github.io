@@ -1,13 +1,11 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?..." type="text/javascript"></script>
 
 
 <h1>Projects</h1>
 
 <h2>Parabolic Lift Visualization with InCircle Predicate</h2>
 
-\[ \frac{1}{n^{2}} \]
-$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
-
+$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!
 
 A self-designed project to visualize a projective technique for testing if a point is inside a circle. A unique circle is defined by three points in the plane. We then project the three points of the circle and the query point into the 3rd dimension. Using the unique plane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into the 4th dimension.
 
