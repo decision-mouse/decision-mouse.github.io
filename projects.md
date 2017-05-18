@@ -9,11 +9,21 @@ A self-designed project to visualize a projective technique for testing if a poi
 
 <hr>
 
-<h2>Multivalued Decision Diagram </h2>
+<h2>Multivalued Decision Diagram</h2>
 
-A summer project to help me explore the possibility of going into the PhD program. This technique for generating constraint satisfaction problem approximations was proposed by Andre A. Cire and Willem-Jan van Hoeve. I began reviewing the work and coded up a C implementation of an exact MDD. While this implementation does not provide the full breadth of features described in the reviewed publications, it does demonstrate the state splitting and filtering propagation algorithms.
+A summer project to help me explore the possibility of pursuing the PhD program. The technique for generating constraint satisfaction problem approximations was proposed by Andre A. Cire and Willem-Jan van Hoeve. I began reviewing the work on the recommendation of a professor, and coded up a simple C implementation of an exact MDD which propagates simple linear inequality constraints. While this implementation does not provide the full breadth of features described in the reviewed publications, it does demonstrate the node splitting and filtering propagation algorithms.
 
-<a class="button-blank" href="#">BUTTON</a>  |  <a class="button-blank" href="#">BUTTON</a>
+<hr>
+
+<h2>Interactive Geometric Algorithm Visualization in a Browser</h2>
+
+With Kirk Gardner and advisor Don Sheehy
+
+<a class="button-blank" href="http://compugeom.github.io/">See it here</a>  |  <a class="button-blank" href="http://donsheehy.net/research/asselin16interactive.pdf">View PDF</a>
+
+<hr>
+
+<a class="button-blank" href="https://github.com/decision-mouse/simple-mdd">View Repository</a>  |  <a class="button-blank" href="#">BUTTON</a>
 
 <hr>
 
