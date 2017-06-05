@@ -6,8 +6,7 @@ A self-designed project to visualize a projective technique for testing if a que
 
 <a class="button-blank" href="http://compugeom.github.io/">See it here</a>  |  <a class="button-blank" href="http://donsheehy.net/research/asselin16interactive.pdf">View PDF</a>
 
-<a class="button-blank" href="https://decision-mouse.github.io/parabolic_lift/">Click here to see it</a> |
-<a class="button-blank" href="#">Click here for a detailed description</a>
+<a class="button-blank" href="https://decision-mouse.github.io/parabolic_lift/">Click here to see it</a> | <a class="button-blank" href="https://github.com/decision-mouse/parabolic_lift">Click here for a detailed description</a>
 
 <hr>
 
