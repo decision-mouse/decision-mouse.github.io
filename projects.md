@@ -4,7 +4,7 @@
 
 A self-designed project to visualize a projective technique for testing if a query point is inside a circle. We define a unique circle by three points in $$\mathbb{R}^2$$. We then project the three cocircular points and the query point onto a paraboloid in $$\mathbb{R}^3$$. Using the unique hyperplane which passes through our three lifted points, we perform a simple plane-side test on the query point using the determinant of the four points lifted into $$\mathbb{R}^4$$.
 
-<iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/AezvINq4wkA" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/AezvINq4wkA" frameborder="0" allowfullscreen></iframe>
 
 <a class="button-blank" href="https://decision-mouse.github.io/parabolic_lift/">See it here</a>  |  <a class="button-blank" href="https://github.com/decision-mouse/parabolic_lift">View Detailed Description</a>
 
